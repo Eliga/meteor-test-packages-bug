@@ -1,7 +1,7 @@
 meteor-test-packages-bug
 ========================
 
-Tiny bug in meteor test-packages
+Tiny bug in test-packages with meteor 0.6.6.1
 
 $ meteor test-packages
 
